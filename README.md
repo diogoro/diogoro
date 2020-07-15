@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-At the moment, I don't know what to write here. It's working progress
+At the moment, I don't know what to write here. It's working in progress.
 <!--
 **diogoro/diogoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
